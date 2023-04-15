@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://blacklik.github.io/react-movies/",
+  "homepage": "https://BlackLik.github.io/react-movies/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
